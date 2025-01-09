@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋 I'm Gurshaan Singh</h1>
 <h3 align="center">A Passionate Full-Stack Developer, and Problem Solver from India</h3>
 
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=Gurshaan+Singh;I+am+a+Full+Stack+Developer;Exploring+Web3+and+blockchain+developemrnt" alt="Typing SVG" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=Building+innovative+projects;and+contributing+to+open-source+initiatives" alt="Typing SVG" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+Currently+Learning+Rust+for+Backend+Development" alt="Typing SVG" />
-</a>
+<h3 align="center" style="color: #0E9CF7;">Exploring Web3 and blockchain development</h3>
 
 - 📫 Reach me at **gurshaansinghd@gmial.com**
 
@@ -77,8 +66,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurshaan17&show_icons=true&locale=en" alt="jayant-joshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurshaan17&show_icons=true&locale=en" alt="gurshaan" /></p>
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurshaan17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurshaan17&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
