@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gurshaan Singh</h1>
-<h3 align="center">A Passionate Full-Stack Developer, and Problem Solver from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer, and Problem Solver</h3>
 
 <h3 align="center" style="color: #0E9CF7;">Exploring Web3 and blockchain development</h3>
 
