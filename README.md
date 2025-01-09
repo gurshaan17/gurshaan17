@@ -3,7 +3,7 @@
 
 <h3 align="center" style="color: #0E9CF7;">Exploring Web3 and blockchain development</h3>
 
-- 📫 Reach me at **gurshaansinghd@gmial.com**
+- 📫 Reach me at **gurshaansinghd@gmail.com**
 
 ⚡ "Turning ideas into reality with code and creativity!"
 
