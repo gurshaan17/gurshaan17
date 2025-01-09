@@ -1,7 +1,3 @@
-<a href="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966">
-  <img src="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="MasterHead" style="height: 420px; width:100vw;">
-</a>
-
 <h1 align="center">Hi 👋 I'm Gurshaan Singh</h1>
 <h3 align="center">A Passionate Full-Stack Developer, and Problem Solver from India</h3>
 
@@ -15,7 +11,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+Currently+Learning+Python+for+Backend+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+Currently+Learning+Rust+for+Backend+Development" alt="Typing SVG" />
 </a>
 
 - 📫 Reach me at **gurshaansinghd@gmial.com**
@@ -67,3 +63,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurshaan17&show_icons=true&locale=en" alt="jayant-joshi" /></p>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurshaan17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
