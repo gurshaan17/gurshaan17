@@ -66,7 +66,5 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurshaan17&show_icons=true&locale=en" alt="gurshaan" /></p>
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurshaan17&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
