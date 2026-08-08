@@ -1,6 +1,6 @@
 # hey, i'm gurshaan 👋
 
-`cs @ nit jalandhar` · `builder` · `shipping things`
+`it @ nit jalandhar` · `builder` · `shipping things`
 
 I build products, mostly around **AI, real-time systems, and developer infrastructure.**
 
