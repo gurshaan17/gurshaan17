@@ -1,6 +1,6 @@
 # hey, i'm gurshaan 👋
 
-`it @ nit jalandhar` · `builder` · `shipping things`
+`it @ nit jalandhar` · `engineer` · `shipping things`
 
 I build products, mostly around **AI, real-time systems, and developer infrastructure.**
 
@@ -20,7 +20,7 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 ```text
 languages    TypeScript · JavaScript · Python · Go · C++ 
 
-frontend     React · Next.js · Tailwind
+frontend     React · Next.js · Tailwind · Astro
 
 backend      Node.js · Express · FastAPI
 
