@@ -7,7 +7,7 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 ### shipped
 
 **[DMflo](https://trydmflo.com)** — AI-powered Instagram DM automation
-`RAG` `BullMQ` `PostgreSQL` `pgvector` `22-model schema`
+`RAG` `BullMQ` `PostgreSQL` `pgvector` `typescript`
 
 **[Typing Wars](https://typing.gurshaan.xyz)** — real-time multiplayer typing game
 `WebSockets` `matchmaking` `live race tracking`
