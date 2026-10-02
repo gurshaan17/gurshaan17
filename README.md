@@ -7,10 +7,13 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 ### shipped
 
 **[DMflo](https://trydmflo.com)** — AI-powered Instagram DM automation
-`RAG` `BullMQ` `PostgreSQL` `pgvector` `typescript`
+`RAG` `BullMQ` `PostgreSQL` `pgvector` `typescript` `OAuth`
 
 **[Typing Wars](https://typing.gurshaan.xyz)** — real-time multiplayer typing game
 `WebSockets` `matchmaking` `live race tracking`
+
+**[p99.online](https://p99.online)** — archive of real production incidents, each one a teardown of how it broke
+`Next.js` `TypeScript` `systems`
 
 **AI Resume Builder** — AI-powered resume generation
 `LaTeX` `PDF generation` `AI`
@@ -18,11 +21,11 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 ### stack
 
 ```text
-languages    TypeScript · JavaScript · Python · Go · C++ 
+languages    TypeScript · JavaScript · Python · Go · C++
 
 frontend     React · Next.js · Tailwind · Astro
 
-backend      Node.js · Express · FastAPI
+backend      Node.js · Express · Gin
 
 infra        PostgreSQL · Redis · MongoDB · Docker · BullMQ
 
