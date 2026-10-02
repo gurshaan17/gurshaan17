@@ -9,7 +9,7 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 **[DMflo](https://trydmflo.com)** — AI-powered Instagram DM automation
 `RAG` `BullMQ` `PostgreSQL` `pgvector` `typescript` `OAuth`
 
-**[p99.online](https://p99.online)** — archive of real production incidents, each one a teardown of how it broke
+**[p99](https://p99.online)** — archive of real production incidents, each one a teardown of how it broke
 `Next.js` `TypeScript` `systems`
 
 **[Typing Wars](https://typing.gurshaan.xyz)** — real-time multiplayer typing game
