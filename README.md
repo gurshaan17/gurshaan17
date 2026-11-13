@@ -10,7 +10,7 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 `RAG` `BullMQ` `PostgreSQL` `pgvector` `typescript` `OAuth`
 
 **[Kerf](https://github.com/gurshaan17/kerf)** — local-first video editor with AI chat, editable timelines, and reference-driven Blueprints
-`Electron` `TypeScript` `FFmpeg` `AI` `MCP`
+`Electron` `TypeScript` `AI` `MCP`
 
 **[p99](https://p99.online)** — archive of real production incidents, each one a teardown of how it broke
 `Next.js` `TypeScript` `AWS SES` `systems`
