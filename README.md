@@ -15,6 +15,9 @@ I build products, mostly around **AI, real-time systems, and developer infrastru
 **[p99](https://p99.online)** — archive of real production incidents, each one a teardown of how it broke
 `Next.js` `TypeScript` `AWS SES` `systems`
 
+**[Reforge](https://github.com/gurshaan17/reforge)** — design skill for distinctive landing pages and onboarding flows
+`design` `UI/UX` `agents`
+
 **[Typing Wars](https://typing.gurshaan.xyz)** — real-time multiplayer typing game
 `WebSockets` `matchmaking` `live race tracking`
 
